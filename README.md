@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahekshivaniiii)](https://git.io/streak-stats)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahekshivaniiii&theme=github_dark)
+
